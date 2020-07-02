@@ -16,7 +16,6 @@ print(Fore.BLUE+"-="*15+Style.RESET_ALL)
 b = fp.leia("-Diga seu B: ")
 print(Fore.BLUE+"-="*15+Style.RESET_ALL)
 
-c = fp.leia("-Diga seu C: ")
 print(Fore.BLUE+"-="*15+Style.RESET_ALL)
 
 
